@@ -1,8 +1,6 @@
 # Caesar-s-Cipher  [![Build Status](https://travis-ci.org/Awdesh/Caesar-s-Cipher.svg?branch=master)](https://travis-ci.org/Awdesh/Caesar-s-Cipher) [![Coverage Status](https://coveralls.io/repos/Awdesh/Caesar-s-Cipher/badge.svg?branch=master&service=github)](https://coveralls.io/github/Awdesh/Caesar-s-Cipher?branch=master)
-==================
-Node module to encode string. 
-
-A small library that encodes string by shifting characters in a string.
+==============================================================
+Node module to encode string. A small library that encodes string by shifting characters in a string.
 
 ## Installation
 
@@ -25,5 +23,3 @@ A small library that encodes string by shifting characters in a string.
 ## Contributing
 
 In lieu of a formal style guide, take care to maintain the existing coding style. Add unit tests for any new or changed functionality. Lint and test your code.
-
-[![Coverage Status](https://coveralls.io/repos/Awdesh/number-formatter/badge.svg?branch=master&service=github)](https://coveralls.io/github/Awdesh/number-formatter?branch=master)
