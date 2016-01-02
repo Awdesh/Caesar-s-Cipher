@@ -1,4 +1,4 @@
-# Caesar-s-Cipher 
+# Caesar-s-Cipher  [![Build Status](https://travis-ci.org/Awdesh/Caesar-s-Cipher.svg?branch=master)](https://travis-ci.org/Awdesh/Caesar-s-Cipher) [![Coverage Status](https://coveralls.io/repos/Awdesh/Caesar-s-Cipher/badge.svg?branch=master&service=github)](https://coveralls.io/github/Awdesh/Caesar-s-Cipher?branch=master)
 ==================
 Node module to encode string. 
 
