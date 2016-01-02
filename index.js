@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = function (encodedStr) {
-	// body...
+	encodedStr = encodedStr.toUpperCase();
 	var codeArr = encodedStr.split("");  // String to Array
   	var len = codeArr.length;
   	var decodedArr = []; // Your Result goes here
