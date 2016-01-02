@@ -1,0 +1,19 @@
+{
+  "name": "caesar-cipher",
+  "version": "0.0.1",
+  "description": "module for encoding string using caesar's cipher method",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Awdesh/Caesar-s-Cipher.git"
+  },
+  "author": "Awdesh Sharma <awdesh.sharma1@gmail.com> (http://awdesh.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Awdesh/Caesar-s-Cipher/issues"
+  },
+  "homepage": "https://github.com/Awdesh/Caesar-s-Cipher#readme"
+}
