@@ -6,16 +6,16 @@ A small library that encodes string by shifting characters in a string.
 
 ## Installation
 
-  `npm install @awdesh/number-formatter`
+  `npm install @awdesh/caesar-cipher`
 
 ## Usage
 
-    var numFormatter = require('@awdesh/number-formatter');
+    var cipher = require('@awdesh/caesar-cipher');
 
-    var formattedNum = numFormatter(35666);
+    var encodedStr = cipher('SERR');
   
   
-  Output should be `35,666`
+  Output should be `FREE`
 
 
 ## Tests

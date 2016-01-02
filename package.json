@@ -1,5 +1,5 @@
 {
-  "name": "caesar-cipher",
+  "name": "@awdesh/caesar-cipher",
   "version": "0.0.1",
   "description": "module for encoding string using caesar's cipher method",
   "main": "index.js",
@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Awdesh/Caesar-s-Cipher/issues"
   },
-  "homepage": "https://github.com/Awdesh/Caesar-s-Cipher#readme"
+  "homepage": "https://github.com/Awdesh/Caesar-s-Cipher#readme",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4"
+  }
 }
