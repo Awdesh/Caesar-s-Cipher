@@ -1,6 +1,6 @@
 {
   "name": "@awdesh/caesar-cipher",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "module for encoding string using caesar's cipher method",
   "main": "index.js",
   "scripts": {
