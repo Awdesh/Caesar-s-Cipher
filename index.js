@@ -26,3 +26,6 @@ module.exports = function (encodedStr) {
   return decodedArr.join(""); // Array to String
 };
 
+
+
+

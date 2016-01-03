@@ -16,8 +16,12 @@ describe('#cipher', function () {
 		var result = cipher("SERR-PIZZA!");
 		expect(result).to.equal('FREE-CVMMN!');
 	});
-	it('should encode lowercase words', function() {
+	it('should encode lowercase words and skip special chars', function() {
 		var result = cipher("free cvmmn!");
 		expect(result).to.equal('SERR PIZZA!');
+	});
+	it('should encode lowercase and uppercase words', function() {
+		var result = cipher("Free");
+		expect(result).to.equal('SERR');
 	});
 });
