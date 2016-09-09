@@ -9,7 +9,7 @@ module.exports = function (encodedStr) {
 	for(var i = 0; i < len; i++) {
     	var val = encodedStr.charCodeAt(i);
     
-    	if(val >= 65 && val <= 90) {
+    	if(val >= 65 && val <= 9) {
       		var rot = val + 13;
       
 	      if(rot > 90) 
